@@ -1,0 +1,14 @@
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\bin\Debug\net8.0\Inlämningsuppgift 3 - C#.exe
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\bin\Debug\net8.0\Inlämningsuppgift 3 - C#.deps.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\bin\Debug\net8.0\Inlämningsuppgift 3 - C#.runtimeconfig.json
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\bin\Debug\net8.0\Inlämningsuppgift 3 - C#.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\bin\Debug\net8.0\Inlämningsuppgift 3 - C#.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.AssemblyInfoInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.AssemblyInfo.cs
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.csproj.CoreCompileInputs.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\refint\Inlämningsuppgift 3 - C#.dll
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.pdb
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\Inlämningsuppgift 3 - C#.genruntimeconfig.cache
+C:\Users\emile\Desktop\C-sharp\Egna_Projekt\Inlämningsuppgift 3 - C#\obj\Debug\net8.0\ref\Inlämningsuppgift 3 - C#.dll
